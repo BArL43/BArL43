@@ -44,7 +44,7 @@ Python · FastAPI · SQLAlchemy · PostgreSQL/SQLite · AI API · Ed25519 · pyt
 
 ## Сейчас изучаю глубже
 
-Event-driven и distributed-systems практику на Go: gRPC, NATS JetStream, idempotency, retries/DLQ, PostgreSQL, Redis, Prometheus и конкурентную нагрузку. Отдельный учебный Event Pipeline Lab уже проходит полный CI и end-to-end delivery checks и готовится к публичной публикации.
+Event-driven и distributed-systems практику на Go: gRPC, NATS JetStream, idempotency, retries/DLQ, PostgreSQL, Redis, Prometheus и конкурентную нагрузку. Сейчас собираю отдельный учебный Event Pipeline Lab; добавлю его в публичное портфолио только после полного CI и end-to-end проверки.
 
 ## Контакты
 
