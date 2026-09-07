@@ -42,9 +42,9 @@ Python · FastAPI · SQLAlchemy · PostgreSQL/SQLite · AI API · Ed25519 · pyt
 - Top-300 CodeRun Boost Challenge by Yandex, 2025
 - Финалист нескольких олимпиад по программированию и математике, 2026
 
-## Сейчас в работе
+## Сейчас изучаю глубже
 
-Развиваю учебный event-driven Go-проект с gRPC, NATS JetStream, PostgreSQL, Redis, Prometheus и нагрузочным генератором. Он останется private до тех пор, пока не будет полностью проверен CI и end-to-end тестами.
+Event-driven и distributed-systems практику на Go: gRPC, NATS JetStream, idempotency, retries/DLQ, PostgreSQL, Redis, Prometheus и конкурентную нагрузку. Отдельный учебный Event Pipeline Lab уже проходит полный CI и end-to-end delivery checks и готовится к публичной публикации.
 
 ## Контакты
 
